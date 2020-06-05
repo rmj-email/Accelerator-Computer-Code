@@ -1,0 +1,360 @@
+
+
+*******************************************************************************
+Thu Oct 07 11:30:52 2004
+
+
+FIT:    data read from 'SW2.all_eigen_frequency.tune.res' u ($1):($2)
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_freq(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1110.94           delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-005
+lambda	  : 1.0274
+
+initial set of free parameter values
+
+fpi2            = 1
+kappa           = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00479103
+rel. change during last iteration : -3.5775e-006
+
+degrees of freedom (ndf) : 7
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 0.0261617
+variance of residuals (reduced chisquare) = WSSR/ndf : 0.000684433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+fpi2            = 12.1081          +/- 0.008721     (0.07202%)
+kappa           = 0.0587014        +/- 0.0009672    (1.648%)
+
+
+correlation matrix of the fit parameters:
+
+               fpi2   kappa  
+fpi2            1.000 
+kappa          -0.044  1.000 
+
+
+*******************************************************************************
+Tue Aug 18 19:54:13 2009
+
+
+FIT:    data read from 'SW2.all_eigen_frequency.tune.res' u ($1):($2)
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_freq(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1110.94           delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-005
+lambda	  : 1.0274
+
+initial set of free parameter values
+
+fpi2            = 1
+kappa           = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00479103
+rel. change during last iteration : -3.5775e-006
+
+degrees of freedom (ndf) : 7
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 0.0261617
+variance of residuals (reduced chisquare) = WSSR/ndf : 0.000684433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+fpi2            = 12.1081          +/- 0.008721     (0.07202%)
+kappa           = 0.0587014        +/- 0.0009672    (1.648%)
+
+
+correlation matrix of the fit parameters:
+
+               fpi2   kappa  
+fpi2            1.000 
+kappa          -0.044  1.000 
+
+
+*******************************************************************************
+Tue Aug 18 20:01:12 2009
+
+
+FIT:    data read from 'SW2.all_eigen_frequency.tune.res' u ($1):($2)
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_freq(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1110.94           delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-005
+lambda	  : 1.0274
+
+initial set of free parameter values
+
+fpi2            = 1
+kappa           = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00479103
+rel. change during last iteration : -3.5775e-006
+
+degrees of freedom (ndf) : 7
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 0.0261617
+variance of residuals (reduced chisquare) = WSSR/ndf : 0.000684433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+fpi2            = 12.1081          +/- 0.008721     (0.07202%)
+kappa           = 0.0587014        +/- 0.0009672    (1.648%)
+
+
+correlation matrix of the fit parameters:
+
+               fpi2   kappa  
+fpi2            1.000 
+kappa          -0.044  1.000 
+
+
+*******************************************************************************
+Tue Aug 18 20:01:27 2009
+
+
+FIT:    data read from 'SW2.all_eigen_frequency.tune.res' u ($1):($2)
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_freq(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1110.94           delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-005
+lambda	  : 1.0274
+
+initial set of free parameter values
+
+fpi2            = 1
+kappa           = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00479103
+rel. change during last iteration : -3.5775e-006
+
+degrees of freedom (ndf) : 7
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 0.0261617
+variance of residuals (reduced chisquare) = WSSR/ndf : 0.000684433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+fpi2            = 12.1081          +/- 0.008721     (0.07202%)
+kappa           = 0.0587014        +/- 0.0009672    (1.648%)
+
+
+correlation matrix of the fit parameters:
+
+               fpi2   kappa  
+fpi2            1.000 
+kappa          -0.044  1.000 
+
+
+*******************************************************************************
+Tue Aug 18 20:01:48 2009
+
+
+FIT:    data read from 'SW2.all_eigen_frequency.tune.res' u ($1):($2)
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_freq(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1110.94           delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-005
+lambda	  : 1.0274
+
+initial set of free parameter values
+
+fpi2            = 1
+kappa           = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00479103
+rel. change during last iteration : -3.5775e-006
+
+degrees of freedom (ndf) : 7
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 0.0261617
+variance of residuals (reduced chisquare) = WSSR/ndf : 0.000684433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+fpi2            = 12.1081          +/- 0.008721     (0.07202%)
+kappa           = 0.0587014        +/- 0.0009672    (1.648%)
+
+
+correlation matrix of the fit parameters:
+
+               fpi2   kappa  
+fpi2            1.000 
+kappa          -0.044  1.000 
+
+
+*******************************************************************************
+Tue Aug 18 20:30:42 2009
+
+
+FIT:    data read from 'SW2.all_eigen_frequency.tune.res' u ($1):($2)
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_freq(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1110.94           delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-005
+lambda	  : 1.0274
+
+initial set of free parameter values
+
+fpi2            = 1
+kappa           = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00479103
+rel. change during last iteration : -3.5775e-006
+
+degrees of freedom (ndf) : 7
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 0.0261617
+variance of residuals (reduced chisquare) = WSSR/ndf : 0.000684433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+fpi2            = 12.1081          +/- 0.008721     (0.07202%)
+kappa           = 0.0587014        +/- 0.0009672    (1.648%)
+
+
+correlation matrix of the fit parameters:
+
+               fpi2   kappa  
+fpi2            1.000 
+kappa          -0.044  1.000 
+
+
+*******************************************************************************
+Tue Aug 18 20:30:56 2009
+
+
+FIT:    data read from 'SW2.all_eigen_frequency.tune.res' u ($1):($2)
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_freq(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1110.94           delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-005
+lambda	  : 1.0274
+
+initial set of free parameter values
+
+fpi2            = 1
+kappa           = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00479103
+rel. change during last iteration : -3.5775e-006
+
+degrees of freedom (ndf) : 7
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 0.0261617
+variance of residuals (reduced chisquare) = WSSR/ndf : 0.000684433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+fpi2            = 12.1081          +/- 0.008721     (0.07202%)
+kappa           = 0.0587014        +/- 0.0009672    (1.648%)
+
+
+correlation matrix of the fit parameters:
+
+               fpi2   kappa  
+fpi2            1.000 
+kappa          -0.044  1.000 
+
+
+*******************************************************************************
+Tue Aug 18 20:31:24 2009
+
+
+FIT:    data read from 'SW2.all_eigen_frequency.tune.res' u ($1):($2)
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: fit_freq(x)
+fitted parameters initialized with current variable values
+
+
+
+Iteration 0
+WSSR        : 1110.94           delta(WSSR)/WSSR   : 0
+delta(WSSR) : 0                 limit for stopping : 1e-005
+lambda	  : 1.0274
+
+initial set of free parameter values
+
+fpi2            = 1
+kappa           = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.00479103
+rel. change during last iteration : -3.5775e-006
+
+degrees of freedom (ndf) : 7
+rms of residuals      (stdfit) = sqrt(WSSR/ndf)      : 0.0261617
+variance of residuals (reduced chisquare) = WSSR/ndf : 0.000684433
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+fpi2            = 12.1081          +/- 0.008721     (0.07202%)
+kappa           = 0.0587014        +/- 0.0009672    (1.648%)
+
+
+correlation matrix of the fit parameters:
+
+               fpi2   kappa  
+fpi2            1.000 
+kappa          -0.044  1.000 
