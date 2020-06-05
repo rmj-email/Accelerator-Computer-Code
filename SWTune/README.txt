@@ -3,7 +3,7 @@ File: TUNE
 Author: Roger M. Jones, roger.jones@manchester.ac.uk
 *******************************************************
 
-This executable TUNE, tunes the accelerator cell frequencies in order to match the experimental field profile using a coupled cell circuit model.
+This executable TUNE, tunes the accelerator cell frequencies in order to match the experimental field profile using a coupled cell circuit model.  It relies on Gnuplot to display graphics (and is included in the list of files).
 For an example of its use please refer to:
 https://accelconf.web.cern.ch/e02/PAPERS/MOPRI057.pdf
 
